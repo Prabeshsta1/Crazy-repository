@@ -1,0 +1,2 @@
+# Crazy-repository
+Hi everybody
